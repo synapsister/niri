@@ -1,0 +1,22 @@
+
+ /////////////////
+ // NIRI CONFIG //
+ /////////////////
+
+include "./core/recent-windows.kdl"
+include "./core/window-rules.kdl"
+include "./core/layer-rules.kdl"
+include "./core/output.kdl"
+include "./core/animations.kdl"
+include "./core/layout.kdl"
+
+include "./input/input.kdl"
+include "./input/keybinds.kdl"
+include "./input/gestures.kdl"
+
+include "./misc/misc.kdl"
+include "./misc/debug.kdl"
+include "./misc/autostart.kdl"
+include "./misc/cursor.kdl"
+include optional=true "./misc/switch-events.kdl"
+

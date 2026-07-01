@@ -1,0 +1,7 @@
+output "Virtual-1" {
+        hot-corners {
+                off
+        }
+}
+
+       

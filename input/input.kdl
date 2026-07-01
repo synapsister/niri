@@ -1,0 +1,24 @@
+input {
+        disable-power-key-handling // disables niri from converting the poweroff button to sleep
+        workspace-auto-back-and-forth // trying to switch to workspace X while youre in workspace X puts you back in your previous workspace
+
+        touchpad {
+                disabled-on-external-mouse
+        }
+        
+        tablet {
+                map-to-focused-output 
+        }
+        keyboard {
+
+                repeat-delay 600
+                repeat-rate 50
+                track-layout "global"
+                numlock
+                
+                xkb {
+                        layout "us"
+                }
+                
+        }
+}
