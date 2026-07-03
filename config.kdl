@@ -19,4 +19,3 @@ include "./misc/debug.kdl"
 include "./misc/autostart.kdl"
 include "./misc/cursor.kdl"
 include optional=true "./misc/switch-events.kdl"
-

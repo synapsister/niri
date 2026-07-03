@@ -18,7 +18,9 @@ input {
                 
                 xkb {
                         layout "us"
-                }
-                
+                }	
+
+
+
         }
 }
