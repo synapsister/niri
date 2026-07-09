@@ -17,7 +17,6 @@ input {
                 numlock
                 
                 xkb {
-                        options "caps:ctrl_modifier,ctrl:swapcaps"
                         layout "us"
                 }	
 
