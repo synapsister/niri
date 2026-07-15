@@ -38,6 +38,7 @@ binds {
 
         // -- programs -- //
         Mod+T hotkey-overlay-title="Spawn foot" { spawn "foot"; }
+        Mod+R hotkey-overlay-title="Open launcher" { spawn "noctalia" "msg" "panel-toggle" "launcher"; }
         Mod+Shift+T hotkey-overlay-title="Spawn emacs" { spawn "emacs"; }
 }
 
